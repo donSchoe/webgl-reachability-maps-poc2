@@ -11,6 +11,11 @@ Rendering of the street graph based on current view port.
 
 **work in progress**
 
+Demo
+----
+
+  - http://donschoe.github.io/leaflet-distance-maps-pt2/
+
 
 Credits
 -------
