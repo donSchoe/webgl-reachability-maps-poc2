@@ -7,15 +7,13 @@ GPU-based (JS/WebGL) rendering of distance maps. Leaflet WebGL distance maps pro
 Prototype 2
 -----------
 
-Rendering of the street graph based on current view port.
+Rendering of the street graph based on current view port. *work in progress*
 
-**work in progress**
-
-Demo
-----
+Demo & Blog
+-----------
 
   - http://donschoe.github.io/leaflet-distance-maps-pt2/
-
+  - Read more: http://geogl.ghost.io/distance-maps-prototype-2/
 
 Credits
 -------
