@@ -1,0 +1,3 @@
+[submodule "lib/leaflet-canvasoverlay"]
+	path = lib/leaflet-canvasoverlay
+	url = https://github.com/donSchoe/L.CanvasOverlay
