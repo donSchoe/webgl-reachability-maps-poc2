@@ -1,24 +1,23 @@
-Distance Maps WebGL Vis
-=======================
+Reachaility Maps WebGL Vis
+==========================
 
-GPU-based (JS/WebGL) rendering of distance maps. Leaflet WebGL distance maps prototype #2 (snapshot), for educational purposes only.
+GPU-based (JS/WebGL) rendering of reachability maps. Leaflet WebGL reachability maps proof-of-concept #2 (snapshot), for educational purposes only.
 
 
-Prototype 2
+Proof-of-concept 2
+------------------
+
+Rendering of the street graph based on current view port.
+
+Demo
 -----------
 
-Rendering of the street graph based on current view port. *work in progress*
-
-Demo & Blog
------------
-
-  - http://donschoe.github.io/leaflet-distance-maps-pt2/
-  - Read more: http://geogl.ghost.io/distance-maps-prototype-2/
+  - http://5chdn.github.io/webgl-reachability-maps-poc2/
 
 Credits
 -------
 
-Prototype 2 written and (c) by Alexander Schoedon <schoedon@uni-potsdam.de>
+PoC 2 written and (c) by Alexander Schoedon <schoedon@uni-potsdam.de>
 for Spatial Analytics at the Hasso-Plattner-Institute.
   - https://hpi.de/de/computer-graphics-systems/
 
